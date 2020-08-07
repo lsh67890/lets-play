@@ -1,3 +1,6 @@
+# Rock scissor paper game: User vs Computer
+# Based on "Best of 3" rule
+
 import random
 
 CHOICES = {1: 'rock', 2: 'scissor', 3:'paper'}
