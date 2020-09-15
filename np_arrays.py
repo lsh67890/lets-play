@@ -1,4 +1,4 @@
-# How to
+# How to define arrays in np and its shape and dimension
 
 import numpy as np
 
