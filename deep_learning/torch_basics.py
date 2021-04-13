@@ -18,7 +18,6 @@ print(result)
 
 # view
 range_nums = torch.arange(9).reshape(3, 3)
-print('-----')
 print(range_nums)
 print(range_nums.view(1, 9))
 
