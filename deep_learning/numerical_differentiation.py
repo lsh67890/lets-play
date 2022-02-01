@@ -3,9 +3,6 @@ import numpy as np
 
 epsilon = 0.0001
 
-# _m: np.matmul(A, B)
-# _t: np.transpose(x
-
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
